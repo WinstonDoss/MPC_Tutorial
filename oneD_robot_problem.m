@@ -1,3 +1,7 @@
+%%
+%%MPC Tutorial
+%%@author: Winston Doss Marveldoss
+%%
 clear; clc; close all;
 
 %% Simulation Parameters

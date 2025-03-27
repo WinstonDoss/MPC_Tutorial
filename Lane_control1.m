@@ -1,3 +1,7 @@
+%%
+%%MPC Tutorial
+%%@author: Winston Doss Marveldoss
+%%
 %% mpc_bicycle_symbolic.m
 % MPC for Vehicle Kinematics (Lane Keeping) using Symbolic Optimization
 clear; clc; close all;

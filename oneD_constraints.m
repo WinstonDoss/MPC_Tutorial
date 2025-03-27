@@ -1,3 +1,7 @@
+%%
+%%MPC Tutorial
+%%@author: Winston Doss Marveldoss
+%%
 %% MPC for a 1D Robot: x(k+1) = x(k) + u(k)
 % The cost is
 %    J = sum_{k=0}^{N-1} [ (x(k)-5)^2 + u(k)^2 ]

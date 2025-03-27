@@ -1,3 +1,7 @@
+%%
+%%MPC Tutorial
+%%@author: Winston Doss Marveldoss
+%%
 %% mpc_bicycle_continuous_linearization.m
 % MPC for Vehicle Kinematics (Lane Keeping) using
 % Continuous-Time Linearization (Euler Discretization) + Symbolic MPC
